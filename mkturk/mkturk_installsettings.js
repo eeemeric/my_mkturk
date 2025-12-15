@@ -8,7 +8,7 @@
 //var DBX_CLIENT_ID = "2m9hmv7q45kwren"
 //var DBX_REDIRECT_URI_ROOT = "https://dl.dropboxusercontent.com/spa/k79b8ph6lmcr30d/mkturk/public/"
 var DBX_CLIENT_ID = "f7att01psd18ckj"
-var DBX_REDIRECT_URI_ROOT = "https://dl.dropboxusercontent.com/spa/vb2o9lt4s7ns14ekslg45ydj1/mkturk/public/"
+var DBX_REDIRECT_URI_ROOT = "https://eeemeric.github.io/my_mkturk/mkturk/public/"
 
 
 // ------ Subject settings ------ 
